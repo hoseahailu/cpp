@@ -1,0 +1,14 @@
+# Personal learning guide (not shared via git)
+HOW-TO-LEARN-CPP.md
+
+# Compiled binaries and object files
+*.o
+*.out
+*.exe
+
+# Common local executable names in this repo
+chapter1-intro/hello2
+chapter1-intro/cin
+chapter1-intro/variables
+chapter1-intro/hellobinaryfile
+chapter2-variables-datatypes/basic-io
